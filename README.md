@@ -1,6 +1,6 @@
 # Profile Card
 
-![Profile Card](profile_card_image.jpg)
+![Profile Card](img/profile-card-mockup.png)
 
 ## Description
 This project is a profile card designed to showcase the most important social media profiles of a user, including LinkedIn, GitHub, and a personal portfolio. It has been created using HTML, CSS, and JavaScript. Fell free to wathch the proyect [here](https://aimarbustamante.github.io/Profile-card/).
